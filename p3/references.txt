@@ -1,0 +1,29 @@
+
+Following is a list of references used at various stages of the project:
+
+#https://github.com/tidyverse/dplyr/issues/293
+#https://stackoverflow.com/questions/16327971/subtracting-one-data-frame-from-the-other
+#https://cran.r-project.org/web/packages/gender/gender.pdf
+#https://stackoverflow.com/questions/26489276/separate-name-into-firstname-and-lastname-columns-of-data-frame
+#https://stat.ethz.ch/R-manual/R-devel/library/base/html/merge.html
+#http://zevross.com/blog/2014/04/30/mini-post-for-large-tables-in-r-dplyrs-function-inner_join-is-much-faster-than-merge/
+#https://stackoverflow.com/questions/4605206/drop-data-frame-columns-by-name
+#https://stackoverflow.com/questions/6644997/showing-data-values-on-stacked-bar-chart-in-ggplot2
+#https://stackoverflow.com/questions/16961921/plot-data-in-descending-order-as-appears-in-data-frame
+#https://stackoverflow.com/questions/3443687/formatting-decimal-places-in-r
+#https://stackoverflow.com/questions/25887066/remove-space-between-bars-ggplot2
+#https://stackoverflow.com/questions/12018499/how-to-put-labels-over-geom-bar-for-each-bar-in-r-with-ggplot2
+#https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2
+#https://stackoverflow.com/questions/1660124/how-to-sum-a-variable-by-group
+#http://rstudio-pubs-static.s3.amazonaws.com/3256_bb10db1440724dac8fa40da5e658ada5.html
+# D. Kahle and H. Wickham. ggmap: Spatial Visualization with ggplot2. The R Journal, 5(1), 144-161. URL http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf
+# https://cran.r-project.org/web/packages/ggmap/ggmap.pdf
+# https://amunategui.github.io/ggmap-example/
+# https://blog.exploratory.io/geocoding-us-zip-code-data-with-dplyr-and-zipcode-package-7f539c3702b0
+# https://stackoverflow.com/questions/38788357/change-bar-plot-colour-in-geom-bar-with-ggplot2-in-r
+# https://stackoverflow.com/questions/11612235/select-rows-from-a-data-frame-based-on-values-in-a-vector
+# https://stackoverflow.com/questions/42820677/ggplot-bar-plot-side-by-side-using-two-variables
+# https://stackoverflow.com/questions/5171263/changing-line-colors-with-ggplot
+# https://stackoverflow.com/questions/37465285/interactive-scatter-plots-in-r-overlay-hover-summary-tooltip-as-user-supplied-p
+# https://stackoverflow.com/questions/36325154/how-to-choose-variable-to-display-in-tooltip-when-using-ggplotly
+# https://stackoverflow.com/questions/40223308/how-to-remove-option-bar-from-ggplotly-plot
