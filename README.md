@@ -6,4 +6,4 @@ P2. <a href="https://priyankaswadi.github.io/Udacity-DAND-Projects/OpenStreetMap
 P3. <a href="https://priyankaswadi.github.io/Udacity-DAND-Projects/Presidential_Campaign_2016_PA.html">Contribution to 2016 US presidential campaign in state of Pennsylvania.</a>
 P4. <a href="https://priyankaswadi.github.io/Udacity-DAND-Projects/Test_a_Perceptual_Phenomenon.html">Test a Perceptual Phenomenon (Stroop Effect).</a>
 P5. <a href="https://priyankaswadi.github.io/Udacity-DAND-Projects/Identify_Fraud_from_Enron_Email.html">Identify Fraud from Enron Email.</a>
-P6. <a href="https://priyankaswadi.github.io/Udacity-DAND-Projects/Tableau_Story_Analyzing_Performance_of_Baseball_Players.html">Tableau Story Analyzing Performance of Baseball Players.</a>
+P6. <a href="https://priyankaswadi.github.io/Udacity-DAND-Projects/Tableau_Story_Analyzing_Performance_of_Baseball_Players.html">Tableau Story Analyzing Performance of Baseball Players.</a> 
